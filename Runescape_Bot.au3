@@ -6,6 +6,7 @@
 
  Script Function:
 	 AutoIt script.
+	 Creds: http://ow.ly/zkWM302Gav6
 
 #ce ----------------------------------------------------------------------------
 
